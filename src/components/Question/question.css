@@ -1,0 +1,116 @@
+.question_container{
+    padding: 3rem;
+}
+
+/** upload cover image */
+.uploadcoverimage_container{
+    border-radius: 1rem;
+    box-shadow: 2px 2px 5px gray;
+    margin-bottom: 3rem;
+}
+
+.uploadcoverimage_header{
+    background: skyblue;
+    padding: 1.5rem 3rem;
+    border-radius: 1rem 1rem 0 0;
+}
+.uploadcoverimage_body{
+    background: white;
+    padding: 2rem 1.5rem;
+    border-radius: 0 0 1rem 1rem;
+}
+.icon{
+    font-size: 3rem;
+}
+
+/** Personal information*/
+.personalinfo_container{
+    border-radius: 1rem;
+    box-shadow: 2px 2px 5px gray;
+    margin-bottom: 3rem;
+}
+
+.personalinfo_header{
+    background: skyblue;
+    padding: 1.5rem 3rem;
+    border-radius: 1rem 1rem 0 0;
+}
+
+.personalinfo_body{
+    background: white;
+    padding: 2rem 1.5rem;
+    border-radius: 0 0 1rem 1rem;
+    height: fit-content;
+}
+
+.personalinfo_body_ques{
+    display: flex;
+    padding: 1.5rem 0;
+    height: 5rem;
+    border-bottom: 2px solid gray;
+}
+.personalinfo_body_ques h4{
+    width: 50%;
+}
+.ques_checkbok_container{
+    text-align: center;
+    display: inline-block;
+    width: 25%;
+}
+.ques_radio_container{
+    display: inline-block;
+    width: 25%;
+}
+
+.Add_question{
+    padding: 2rem 0;
+    height: 3rem;
+}
+
+.Add_question button{
+    height: 2rem;
+    width: 30%;
+    font-size: 1rem;
+    border: 0;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+/** Profile information*/
+.profileinfo_container{
+    border-radius: 1rem;
+    box-shadow: 2px 2px 5px gray;
+    margin-bottom: 3rem;
+}
+
+.profileinfo_header{
+    background: skyblue;
+    padding: 1.5rem 3rem;
+    border-radius: 1rem 1rem 0 0;
+}
+
+.profileinfo_body{
+    background: white;
+    padding: 2rem 1.5rem;
+    border-radius: 0 0 1rem 1rem;
+    height: fit-content;
+}
+
+.profileinfo_body_ques{
+    display: flex;
+    padding: 1.5rem 0;
+    height: 5rem;
+    border-bottom: 2px solid gray;
+}
+.profileinfo_body_ques h4{
+    width: 50%;
+}
+.ques_checkbok_container{
+    text-align: center;
+    display: inline-block;
+    width: 25%;
+}
+.ques_radio_container{
+    display: inline-block;
+    width: 25%;
+}

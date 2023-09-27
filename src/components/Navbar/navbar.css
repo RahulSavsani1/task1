@@ -1,0 +1,19 @@
+.header_container{
+    box-shadow: 2px 2px 5px gray;
+    background: white;
+    border-radius: 1rem;
+}
+
+.header_container ul{
+    display: flex;
+    list-style: none;
+    padding: 1rem;
+}
+.header_container ul li{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 4rem;
+    width: 100vw;
+    font-size: 1.5rem;
+}

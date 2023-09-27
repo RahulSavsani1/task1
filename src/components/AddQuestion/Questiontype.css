@@ -1,0 +1,92 @@
+.addquestion_container{
+    border-radius: 1rem;
+    box-shadow: 2px 2px 5px gray;
+    margin-top: 1rem;
+}
+
+.addquestion_header{
+    background: skyblue;
+    padding: 1rem 3rem;
+    border-radius: 1rem 1rem 0 0;
+}
+
+.addquestion_body{
+    padding: 3rem;
+    height: fit-content;
+}
+
+#questionType{
+    margin-top: 1rem;
+    font-size: 1rem;
+    padding: 1rem 2rem;
+    width: 100%;
+}
+
+.addquestion_btn{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 1rem;
+}
+
+.addquestion_delete{
+    color: red;
+    cursor: pointer;
+}
+.addquestion_save{
+    background: green;
+    color: white;
+    cursor: pointer;
+}
+
+/** Extra container */
+.extracontainer_body{
+    padding-top: 1rem;
+}
+#extra_body{
+    width: 100%;
+    height: fit-content;
+    font-size: 1.5rem;
+    resize: none;
+    padding: 0.5rem;
+    overflow-y: hidden;
+}
+/** Paragraph */
+
+
+/** Short Answer */
+
+
+/** Yes or No */
+.yesorno_checkbox{
+    padding: 1rem 0 2rem;
+}
+
+/** Dropdown */
+.dropdown_choice_container{
+    padding: 2rem;
+    width: 100%;
+}
+.dropdown_choice{
+    width: 100%;
+    align-items: center;
+    font-size: 1.5rem;
+}
+.dropdown_choice input{
+    font-size: 1.5rem;
+    width: 80%;
+}
+
+/** Multiple Choice */
+
+
+/** Date */
+
+
+/** Number */
+
+
+/** File Upload */
+
+
+/** Video Question */
